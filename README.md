@@ -1,2 +1,2 @@
 # Eye-Trackig
-01- Anlık görüntüde başımızı ve gözerimizi kareler içine alır.
+01- Gözlerimizi ve başımızı küçük kareler içinde öne çıkarır.
